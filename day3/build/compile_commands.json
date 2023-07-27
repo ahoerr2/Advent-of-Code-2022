@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/alexhoerr/Expirements/advent-of-code/exercises/day3/build",
+  "command": "/usr/bin/clang++ -I/Users/alexhoerr/Expirements/advent-of-code/exercises/day3/includes -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/day3_aoc2020.dir/main.cpp.o -c /Users/alexhoerr/Expirements/advent-of-code/exercises/day3/main.cpp",
+  "file": "/Users/alexhoerr/Expirements/advent-of-code/exercises/day3/main.cpp",
+  "output": "CMakeFiles/day3_aoc2020.dir/main.cpp.o"
+}
+]
